@@ -1,0 +1,9 @@
+{
+    "versionCode":  16,
+    "versionName":  "2.4.2",
+    "url":  "https://github.com/lo2y91/download-manager-releases/releases/download/android-2.4.2/DownloadManager-2.4.2.apk",
+    "sha256":  "713a3a055fc735de8254e8ac1d26234a3760a30c32b936ee815ad709578693f9",
+    "url_x86_64":  "https://github.com/lo2y91/download-manager-releases/releases/download/android-2.4.2/DownloadManager-2.4.2-Chromebook.apk",
+    "sha256_x86_64":  "098f677f5f7f26860f579d0e57cfe2f6c09ef4ae7b56b4b488f7622e0242dba5",
+    "notes":  "Automatic updates: the app now checks for new versions by itself. Encrypted link with the computer, tablet layout, picture-in-picture."
+}
