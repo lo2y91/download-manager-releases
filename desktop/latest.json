@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "url": "https://github.com/lo2y91/download-manager-releases/releases/download/desktop-1.1.0/DownloadManager-Full-Setup.exe",
-  "sha256": "2db8f14a2b65ad4b000ebd5459d3423bc6d8a053e8460c722e52d86ddf637431",
+  "sha256": "e2805ec86cca7e4ea44556969fe506bf76e92e20ccdd4b1b0b89215cbc130bcc",
   "notes": "Automatic updates for the full edition. Encrypted phone link, Send to phone from Windows, and a tidier list of paired phones.",
-  "sig": "ZGaUtEy23bVGXAWLVpqH2-ylAar8j_NKQaDUoBE1scVrnORy1C6imvCLiDaPpZvuWtCOaAlyIW5HBEy-K7aSDA"
+  "sig": "mskQ1C4jf45qpZSoxCt-yj-LB0O06uBM0uM2E6AgAjD7sCgF18e8GsK2fATr6qOnpaSqvm4zA86aTa1yT82eBA"
 }
