@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/lo2y91/download-manager-releases/releases/download/desktop-1.2.0/SwiftPull-Setup.exe",
-  "sha256": "97ecfd5790fd4d993d9c7d3c7a38d43ce5c09735860bbbf52ffd07bf986e345c",
-  "notes": "The app is now called SwiftPull. Same app, same data: your list, settings, paired phones and browser link stay as they are.",
-  "sig": "_OjGP-hN4zGRnsBNw9IOCPtJKNvgIB4fFbssWRjY7JtMKQimMJ83tq4xtd2pIbNPsNUlyGUJkiRVIwQ5U8RYAQ"
+  "version": "1.2.1",
+  "url": "https://github.com/lo2y91/download-manager-releases/releases/download/desktop-1.2.1/SwiftPull-Setup.exe",
+  "sha256": "f72a6122ce92c3c2c397813bd5273a5054209bf464deb6a2f0a417d371fe4aaa",
+  "notes": "Help menu: SwiftPull website and Send feedback.",
+  "sig": "RVrqLZMMaqeUY8opZIAj6QKxbHwsyQT5dLAmf2Kp2x-QA0tdLscUV9IrdnEFIJjfe-t2ZkOVgRGlp_xo0LFSAQ"
 }
